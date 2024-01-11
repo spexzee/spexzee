@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif)](https://spexzee-portfolio.vercel.app/)
+[![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)](https://spexzee-portfolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm Abubakara Nadafa</h1>
 <h3 align="center">A passionate Frontend Developer from Bangalore</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
