@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abubakara Nadafa</h1>
-<h3 align="center">A passionate frontend developer from Bangalore</h3>
+<h3 align="center">A passionate Frontend Developer from Bangalore</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <a href="https://twitter.com/spexzee" target="blank"><img src="https://img.shields.io/twitter/follow/spexzee?logo=twitter&style=for-the-badge" alt="spexzee" /></a> </p>
 
