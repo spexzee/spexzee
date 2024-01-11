@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://spexzee-portfolio.vercel.app/](https://spexzee-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://spexzee-portfolio.vercel.app/)
 
 - 💬 Ask me about **React , JavaScript**
 
 - 📫 How to reach me **abub5979@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/149dgFb0tSNVt4H-UDjFS0DCBfyJZ6mlp/view?usp=drive_link](https://drive.google.com/file/d/149dgFb0tSNVt4H-UDjFS0DCBfyJZ6mlp/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://dub.sh/spexzee-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
