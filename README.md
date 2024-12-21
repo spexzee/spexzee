@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <a href="https://twitter.com/spexzee" target="blank"><img src="https://img.shields.io/twitter/follow/spexzee?logo=twitter&style=for-the-badge" alt="spexzee" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://spexzee-portfolio.vercel.app/)
 
